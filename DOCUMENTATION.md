@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Check if GraphicsMagick is installed.
 
 #### Params
+
 - **** `fn`: An optional callback function.
 
 #### Return
