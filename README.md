@@ -27,7 +27,7 @@
 
 
 
-[GraphicsMagick](http://www.graphicsmagick.org/) is the collection of tools and libraries which support reading, writing, and manipulating an image in over 89 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, TIFF, and WebP.
+
 
 > Check if GraphicsMagick is installed.
 
@@ -35,6 +35,8 @@
 
 
 
+
+[GraphicsMagick](http://www.graphicsmagick.org/) is the collection of tools and libraries which support reading, writing, and manipulating an image in over 89 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, TIFF, and WebP.
 
 
 
